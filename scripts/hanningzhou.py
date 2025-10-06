@@ -11,3 +11,5 @@ result = favorite_number * 2
 print(f"My favorite number times 2 is: {result}")]
 
 hello, this is hanning Zhou.
+
+print("Hello from Hanning Zhou!")
