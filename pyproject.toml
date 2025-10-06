@@ -1,7 +1,7 @@
 [project]
-name = "mypkg"
+name = "tweets-about-ai"
 version = "0.0.1"
-description = "Final Project Group Repository for COMPSS-211"
+description = "tis is the final project repository about tweets that talk about ai"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
