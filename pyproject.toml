@@ -1,5 +1,5 @@
 [project]
-name = "mypkg"
+name = "tweets for AI"
 version = "0.0.1"
 description = "Final Project Group Repository for COMPSS-211"
 readme = "README.md"
