@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+zhn_project preparation/public perception of ai/*.csv
+zhn_project preparation/public perception of ai/*.xlsx
+zhn_project preparation/public perception of ai/*.xls
+zhn_project preparation/public perception of ai/*.sav
+zhn_project preparation/test_ai_posts_historical.csv
+zhn_project preparation/test_ai_posts_historical.csv.xlsx
+zhn project preparation\chatgpt_historical.json
+zhn project preparation\public perception of.Chatgpt_Tweets_Nov30_Feb11.xlsm
