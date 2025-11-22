@@ -206,4 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-
+# ignore CSV and Excel files generated during analysis(Since it is too large to track all)
+*.csv
+*.xlsx
+*.xls
+*.xlsm
