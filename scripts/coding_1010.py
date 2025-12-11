@@ -12,9 +12,7 @@ file_path = os.path.join(base_path, 'data', file_name)
 
 # --- 2. Location Cleaning Function ---
 def standardize_location(location_str):
-    """
-    清洗和标准化常见的地理位置乱码/缩写。
-    """
+    
     if pd.isna(location_str):
         return 'Unknown'
 

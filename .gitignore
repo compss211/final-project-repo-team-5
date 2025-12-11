@@ -212,4 +212,4 @@ __marimo__/
 *.xls
 *.xlsm
 
-zhn_project preparation/chatgpt_historical.json
+project preparation/chatgpt_historical.json
